@@ -1,5 +1,5 @@
 
-# Workout buddy
+# Workout Log
 
 This is a full-stack application built using the MERN stack (MongoDB, Express.js, React, and Node.js). The application allows users to log in, store their workout routines, keep track of their progress, and calculate and store their BMI.
 
@@ -8,9 +8,9 @@ This is a full-stack application built using the MERN stack (MongoDB, Express.js
 
 Clone the Repository
 
-https://github.com/manohar-07/Workout_buddy.git 
+https://github.com/manohar-07/Workout_Log.git
 
-cd Workout_buddy
+cd Workout_Log
 
 Backend Setup
 ```bash
